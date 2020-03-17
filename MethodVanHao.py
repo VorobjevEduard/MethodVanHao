@@ -125,28 +125,3 @@ while True:
             print("Выражение справедливо!")
             exit()
         i = i + 1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# TODO:
-# 1) импликация в source_state и target_state
-# 2) поддержка !(expression)
